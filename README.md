@@ -3,7 +3,7 @@
 Este repositorio contiene una serie de archivos y scripts diseñados específicamente para recolectar datos relevantes para nuestra investigación.
 
 ### Estructura de Carpetas
-1. [Fake News Data](fake-news-data/):
+1. [Fake News Data](fakenews-data/):
 Esta carpeta contiene noticias falsas recopiladas como parte del conjunto de datos para entrenar y evaluar el modelo de detección de noticias falsas. Las noticias están organizadas y etiquetadas adecuadamente para facilitar su uso en el desarrollo de modelos. Se recolectaron diversos set de datos de noticias falsas preexistentes de plataformas como Kaggle, Github y HugginFace.
 
 2. [Sentiment Analysis](sentiment-analysis/):
