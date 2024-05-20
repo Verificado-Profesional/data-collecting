@@ -1,2 +1,5 @@
 *.csv
 .DS_Store
+*.env
+*.ini
+*/__pycache__/
